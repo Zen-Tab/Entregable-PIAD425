@@ -1,5 +1,4 @@
 ## Repositorio para los Trabajos Finales de Ingenieria de Software con IA
-<img width="495" height="751" alt="image" src="https://github.com/user-attachments/assets/ad304863-439b-46af-a1a1-0e9b5b462611" />
 
 ## Respuesta a las preguntas:
 **1. ¿Qué producto genera mayores ventas?**

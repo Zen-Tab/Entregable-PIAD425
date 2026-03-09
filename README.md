@@ -17,4 +17,4 @@
 - El Pendrive 32GB (S/. 375), que presenta las ventas más bajas.
 
 ## Autor
-Jhonatan Najarro Mejia.
+Jhonatan Najarro Mejia - 2026
